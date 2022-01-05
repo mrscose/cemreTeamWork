@@ -1,2 +1,4 @@
-package cemreWork1;public class work1 {
+package cemreWork1;
+public class work1 {
+
 }
